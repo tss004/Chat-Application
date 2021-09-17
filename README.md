@@ -7,4 +7,4 @@ out and also track of login and logout time .(https://chat-app-tss.herokuapp.com
 1. Make sure you have node.js and npm install
 2. Install dependence using npm install
 3. Start the web app using node server.js
-4. Application will run on port 3000(http://localhost:5000/)
+4. Application will run on port 5000(http://localhost:5000/)
